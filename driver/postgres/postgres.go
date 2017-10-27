@@ -7,9 +7,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/gemnasium/migrate/driver"
-	"github.com/gemnasium/migrate/file"
-	"github.com/gemnasium/migrate/migrate/direction"
+	"github.com/simplesurance/migrate/driver"
+	"github.com/simplesurance/migrate/file"
+	"github.com/simplesurance/migrate/migrate/direction"
 	"github.com/jmoiron/sqlx"
 	"github.com/lib/pq"
 )

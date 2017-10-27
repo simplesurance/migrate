@@ -12,10 +12,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gemnasium/migrate/driver"
-	"github.com/gemnasium/migrate/file"
-	"github.com/gemnasium/migrate/migrate/direction"
-	pipep "github.com/gemnasium/migrate/pipe"
+	"github.com/simplesurance/migrate/driver"
+	"github.com/simplesurance/migrate/file"
+	"github.com/simplesurance/migrate/migrate/direction"
+	pipep "github.com/simplesurance/migrate/pipe"
 )
 
 // Up applies all available migrations.

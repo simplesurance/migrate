@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/gemnasium/migrate/driver"
-	"github.com/gemnasium/migrate/file"
-	"github.com/gemnasium/migrate/migrate/direction"
+	"github.com/simplesurance/migrate/driver"
+	"github.com/simplesurance/migrate/file"
+	"github.com/simplesurance/migrate/migrate/direction"
 	"github.com/mattn/go-sqlite3"
 )
 
