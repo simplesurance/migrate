@@ -11,7 +11,7 @@ import (
 	"github.com/simplesurance/migrate/file"
 	"github.com/simplesurance/migrate/migrate/direction"
 	"github.com/jmoiron/sqlx"
-	"github.com/lib/pq"
+	"github.com/simplesurance/pq"
 )
 
 type Driver struct {
